@@ -39,3 +39,6 @@
 　　なんとなくできた。。。
   
     https://akira-watson.com/android/kotlin/button-sample.html
+    
+    
+    
