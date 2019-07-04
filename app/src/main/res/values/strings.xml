@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyFirstWork</string>
+    <string name="sushi">すしが好き</string>
+    <string name="tempura">てんぷらが好き</string>
+</resources>
