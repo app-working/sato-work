@@ -1,7 +1,6 @@
-※ https://github.com/app-working/documents/blob/master/progress-reports/satoharu.md　に進捗報告しようとしたが、
+※ https://github.com/app-working/documents/blob/master/progress-reports/satoharu.md　
 
-
-書き込み権限がなかったため、pull requests 中！
+に進捗報告しようとしたが、書き込み権限がなかったため、pull requests 中！
 
 そして、以下にも、進捗を記載！
 
